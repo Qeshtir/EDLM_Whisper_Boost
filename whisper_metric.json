@@ -1,0 +1,30 @@
+{
+  "tiny": {
+    "total_samples": 793,
+    "avg_wer": 1.0497705671097852,
+    "avg_cer": 0.48614232433198323,
+    "avg_time_per_audio": 0.16890012781977803,
+    "total_time": 133.93780136108398
+  },
+  "small": {
+    "total_samples": 793,
+    "avg_wer": 0.5230108689125083,
+    "avg_cer": 0.20779629074686504,
+    "avg_time_per_audio": 0.6828182922185294,
+    "total_time": 541.4749057292938
+  },
+  "iarge-v3": {
+    "total_samples": 793,
+    "avg_wer": 0.4403034201331806,
+    "avg_cer": 0.1582934408431861,
+    "avg_time_per_audio": 7.948655056021403,
+    "total_time": 6303.2834594249725
+  },
+  "large-v3_cuda": {
+    "total_samples": 793,
+    "avg_wer": 0.4403034201331806,
+    "avg_cer": 0.1582934408431861,
+    "avg_time_per_audio": 0.8386273564486606,
+    "total_time": 665.0314936637878
+  }
+}
