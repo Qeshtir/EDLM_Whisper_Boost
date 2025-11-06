@@ -13,7 +13,7 @@
     "avg_time_per_audio": 0.6828182922185294,
     "total_time": 541.4749057292938
   },
-  "iarge-v3": {
+  "large-v3": {
     "total_samples": 793,
     "avg_wer": 0.4403034201331806,
     "avg_cer": 0.1582934408431861,
@@ -26,5 +26,26 @@
     "avg_cer": 0.1582934408431861,
     "avg_time_per_audio": 0.8386273564486606,
     "total_time": 665.0314936637878
+  },
+  "large-v3_cpu_quanted": {
+    "total_samples": 793,
+    "avg_wer": 0.4739530218975364,
+    "avg_cer": 0.16637995920858634,
+    "avg_time_per_audio": 5.805704870861385,
+    "total_time": 4603.923962593079
+  },
+  "large-v3_cuda_quanted": {
+    "total_samples": 793,
+    "avg_wer": 0.44723060042101653,
+    "avg_cer": 0.1585522291109167,
+    "avg_time_per_audio": 3.006850938327977,
+    "total_time": 2384.4327940940857
+  },
+  "large-v3_cuda_autocast_compile": {
+    "total_samples": 793,
+    "avg_wer": 0.44258729290885657,
+    "avg_cer": 0.15894431408815926,
+    "avg_time_per_audio": 0.8967222247418359,
+    "total_time": 711.1007242202759
   }
 }
