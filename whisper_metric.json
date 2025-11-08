@@ -68,5 +68,26 @@
     "avg_cer": 0.16186239019223683,
     "avg_time_per_audio": 0.6089496507319947,
     "total_time": 482.8970730304718
+  },
+  "large-v3_cpu_global_magnitude_pruning_0.9": {
+    "total_samples": 793,
+    "avg_wer": 0.44145936801043983,
+    "avg_cer": 0.1583672805499607,
+    "avg_time_per_audio": 7.401807461530534,
+    "total_time": 5869.633316993713
+  },
+  "large-v3_cpu_global_magnitude_pruning_0.85": {
+    "total_samples": 793,
+    "avg_wer": 0.44370671083155316,
+    "avg_cer": 0.16269859090665484,
+    "avg_time_per_audio": 7.362136787905218,
+    "total_time": 5838.174472808838
+  },
+  "large-v3_cpu_global_magnitude_pruning_0.81": {
+    "total_samples": 793,
+    "avg_wer": 0.44099048352516185,
+    "avg_cer": 0.16186239019223683,
+    "avg_time_per_audio": 7.437315581876122,
+    "total_time": 5897.791256427765
   }
 }
