@@ -1,0 +1,23 @@
+{
+    "without_quantization": {
+        "total_samples": 793,
+        "avg_wer": 0.4403034201331806,
+        "avg_cer": 0.1582934408431861,
+        "avg_time_per_audio": 5.45666822930152,
+        "total_time": 4327.137905836105
+    },
+    "Int8DynamicActivationInt8WeightConfig": {
+        "total_samples": 793,
+        "avg_wer": 0.44800673685289066,
+        "avg_cer": 0.15822481175147496,
+        "avg_time_per_audio": 4.846523948154714,
+        "total_time": 3843.2934908866882
+    },
+    "Int8DynamicActivationInt4WeightConfig": {
+        "total_samples": 793,
+        "avg_wer": 0.44977964518317604,
+        "avg_cer": 0.16099429957508785,
+        "avg_time_per_audio": 10.5657887552004,
+        "total_time": 8378.670482873917
+    }
+}
