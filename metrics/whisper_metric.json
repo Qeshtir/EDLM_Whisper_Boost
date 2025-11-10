@@ -89,5 +89,12 @@
     "avg_cer": 0.16186239019223683,
     "avg_time_per_audio": 7.437315581876122,
     "total_time": 5897.791256427765
+  },
+  "large-v3_cpu_quanted_pruned": {
+    "total_samples": 793,
+    "avg_wer": 0.4815027581357973,
+    "avg_cer": 0.16642186304337375,
+    "avg_time_per_audio": 5.083663366781959,
+    "total_time": 4031.3450498580933
   }
 }
