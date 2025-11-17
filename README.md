@@ -1,6 +1,8 @@
 # EDLM_Whisper_Boost
 Выпускной проект курса "Эффективные модели глубокого обучения" по теме ускорения модели Whisper
 
+Результаты метрик можно увидеть в файле [whisper_metric.json](metrics%2Fwhisper_metric.json)
+
 ## Профилировка и бейзлайн
 [whisper_baseline.ipynb](notebooks%2Fwhisper_baseline.ipynb)
 
